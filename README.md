@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/soniapragalathan/Keystroke_Logger"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+| Log Analysis          | <a href="https://github.com/soniapragalathan/Keystroke_Logger"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/soniapragalathan/Network_Packet_Analyzer"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>|
