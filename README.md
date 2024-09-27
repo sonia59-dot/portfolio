@@ -18,13 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Log Analysis          | <a href="https://github.com/soniapragalathan/Keystroke_Logger"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/soniapragalathan/Network_Packet_Analyzer"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>|
-| Vulnerability Anlysis                         | <a href="https://github.com/soniapragalathan/Preliminary_Assesment_XpressBees"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>|
-| penetration testing to identify security flaws| <a href="https://github.com/soniapragalathan/Preliminary_Assesment_XpressBees"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>|
-| Evaluated broken authentication issues          | <a href="https://github.com/soniapragalathan/Preliminary_Assesment_XpressBees"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>|
+
 
 
 ## Tools
